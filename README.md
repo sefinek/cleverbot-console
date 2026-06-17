@@ -12,7 +12,7 @@
         <img src="https://img.shields.io/github/languages/code-size/sefinek/cleverbot-console" alt="Code size">
     </a>
     <br><br>
-    <img src="assets/screenshot.png" alt="Screenshot">
+    <img src=".github/screenshot.png" alt="Screenshot">
 </div>
 
 ## 📥 » Installation
