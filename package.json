@@ -32,6 +32,11 @@
     "cleverbot": "bin/index.js",
     "cleverbot-console": "bin/index.js"
   },
+  "files": [
+    "bin",
+    "LICENSE",
+    "README.md"
+  ],
   "scripts": {
     "m": "ncu -u && npm install && npm update",
     "test": "echo \"Error: no test specified\" && exit 1"
